@@ -1,0 +1,56 @@
+{
+    "data": [
+    {
+        "winename": "Savignon Blanc",
+        "id": 0,
+        "rating": 4.5,
+        "year": 1994,
+        "details": "This is such an awesome wine. It is perfect and tastes just wonderful. I cannot get enough of it, that is how good it is. It has aperfect nuance of citrus, it is not too sour but not too sweet either. It is absolute perfection",
+        "img": "/wine1.png",
+        "navigation": "/wineDetail1"
+    },
+    {
+        "winename": "Rosé Lovely",
+        "id": 1,
+        "rating": 4.2,
+        "year": 2000,
+        "details": "This is such an awesome wine. It is perfect and tastes just wonderful. I cannot get enough of it, that is how good it is. It has aperfect nuance of citrus, it is not too sour but not too sweet either. It is absolute perfection",
+        "img": "/wine2.png",
+        "navigation": "/wineDetail2"
+    },
+    {
+        "winename": "Riesling Blanc",
+        "id": 2,
+        "rating": 5.1,
+        "year": 1999,
+        "details": "This is such an awesome wine. It is perfect and tastes just wonderful. I cannot get enough of it, that is how good it is. It has aperfect nuance of citrus, it is not too sour but not too sweet either. It is absolute perfection",
+        "img": "/wine1.png",
+        "navigation": "/wineDetail3"
+    },
+    {
+        "winename": "Fat Bastard",
+        "id": 3,
+        "rating": 3.8,
+        "year": 2001,
+        "details": "This is such an awesome wine. It is perfect and tastes just wonderful. I cannot get enough of it, that is how good it is. It has aperfect nuance of citrus, it is not too sour but not too sweet either. It is absolute perfection",
+        "img": "/wine2.png",
+        "navigation": "/wineDetail4"
+    },
+    {
+        "winename": "Fat Bastard",
+        "id": 3,
+        "rating": 3.8,
+        "year": 2001,
+        "details": "This is such an awesome wine. It is perfect and tastes just wonderful. I cannot get enough of it, that is how good it is. It has aperfect nuance of citrus, it is not too sour but not too sweet either. It is absolute perfection",
+        "img": "/wine4.png",
+        "navigation": "/wineDetail5"
+    }
+],
+"revs": [
+    {
+        "reviewText": "",
+        "id": 0,
+        "rating": "rating"
+    }
+]
+}
