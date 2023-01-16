@@ -113,7 +113,7 @@ return (
                         <h1>Dry</h1>
                         <TasteSlider
                             defaultValue={[30, 40]}
-                            className='w-[150px] sm:w-[300px] md:w-[600px] lg:w-[600px] xl:w-[600px]'
+                            className='w-[140px] sm:w-[300px] md:w-[600px] lg:w-[600px] xl:w-[600px] 2xl:w-[600px]'
                         />
                         <h1 className='ml-6'>Sweet</h1>
                     </div>
