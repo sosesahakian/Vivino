@@ -6,7 +6,7 @@ import { Transition } from '@headlessui/react';
 import data from '../pages/api/data.json';
 import Image from 'next/image';
 
-const Reviews = ({ reviews, onDelete }) => {
+const Reviews = ({ reviews, onDelete}) => {
 
     let [isOpen, setIsOpen] = useState(false)
     const [index, setIndex] = useState(0)
@@ -18,7 +18,6 @@ const Reviews = ({ reviews, onDelete }) => {
     function openModal() {
     setIsOpen(true)
     }
-    
     function getIndex(index) {
         setIsOpen(true)
         setIndex(index);
