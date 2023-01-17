@@ -97,7 +97,7 @@ return (
                         <h1>Light</h1>
                         <TasteSlider
                         defaultValue={[10, 20]}
-                        className='w-[140px] sm:w-[300px] md:w-[600px]'
+                        className='sm:w-[300px] md:w-[600px]'
                         />
                         <h1 className='ml-6'>Bold</h1>
                     </div>
@@ -105,7 +105,7 @@ return (
                         <h1>Smooth</h1>
                         <TasteSlider
                             defaultValue={[80, 90]}
-                            className='w-[140px] sm:w-[300px] md:w-[600px] lg:w-[600px] xl:w-[600px]'
+                            className='sm:w-[300px] md:w-[600px] lg:w-[600px] xl:w-[600px]'
                         />
                         <h1 className='ml-6'>Tannic</h1>
                     </div>
@@ -113,7 +113,7 @@ return (
                         <h1>Dry</h1>
                         <TasteSlider
                             defaultValue={[30, 40]}
-                            className='w-[140px] sm:w-[300px] md:w-[600px] lg:w-[600px] xl:w-[600px] 2xl:w-[600px]'
+                            className='sm:w-[300px] md:w-[600px] lg:w-[600px] xl:w-[600px] 2xl:w-[600px]'
                         />
                         <h1 className='ml-6'>Sweet</h1>
                     </div>
@@ -121,7 +121,7 @@ return (
                         <h1>Soft</h1>
                         <TasteSlider
                             defaultValue={[50, 60]}
-                            className='w-[150px] sm:w-[300px] md:w-[600px] lg:w-[600px] xl:w-[600px]'
+                            className='sm:w-[300px] md:w-[600px] lg:w-[600px] xl:w-[600px]'
                         />
                         <h1 className='ml-6'>Acidic</h1>
                     </div>
