@@ -216,22 +216,23 @@ export default WineDetails
 const TasteSlider = styled(Slider)(({ theme }) => ({
     color: '#3a8589',
     height: 6,
+    width: 200,
     padding: '13px',
     '& .MuiSlider-thumb': {
-      height: 0,
-      width: 0,
-      backgroundColor: '#fff',
-      border: '1px solid currentColor',
-      '&:hover': {
+        height: 0,
+        width: 0,
+        backgroundColor: '#fff',
+        border: '1px solid currentColor',
+    '&:hover': {
         boxShadow: '0 0 0 8px rgba(58, 133, 137, 0.16)',
-      },
+        },
     },
     '& .MuiSlider-track': {
-      height: 10,
+        height: 10,
     },
     '& .MuiSlider-rail': {
-      color: theme.palette.mode === 'dark' ? '#bfbfbf' : '#d8d8d8',
-      opacity: theme.palette.mode === 'dark' ? undefined : 1,
-      height: 7,
+        color: theme.palette.mode === 'dark' ? '#bfbfbf' : '#d8d8d8',
+        opacity: theme.palette.mode === 'dark' ? undefined : 1,
+        height: 7,
     },
   }));
